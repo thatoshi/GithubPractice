@@ -8,7 +8,7 @@
 int main()
 {
 
-	std::cout << "GithubPractice" << std::endl;
+	std::cout << "GithubPractice2" << std::endl;
 
     return 0;
 }
